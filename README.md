@@ -1,4 +1,4 @@
-# pwmgr_dataset
+# pwmgr_etl
 
 ETL job to process password manager histograms
 
